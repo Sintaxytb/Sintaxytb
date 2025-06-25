@@ -8,3 +8,6 @@ I have done some self-hosted projects with my PI-5 and currently work with Jetbr
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sintaxytb&show_icons=true&theme=dark)
+
+
+![](https://github-profile-trophy.vercel.app/?username=sintaxytb&theme=nord)
