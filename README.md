@@ -12,3 +12,6 @@ I have done some self-hosted projects with my PI-5 and currently work with Jetbr
 
 
 ![](https://github-profile-trophy.vercel.app/?username=sintaxytb&theme=nord)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sintaxytb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
