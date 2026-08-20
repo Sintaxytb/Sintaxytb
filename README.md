@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is (you don't need to know that) and I'm a 17 year old French dev!
+## My name is (you don't need to know that) and I'm a 18 year old French dev!
 I'm Curently doing frontend, and some backend dev. 
 I have done some self-hosted projects with my PI-5 and currently work with Jetbrains IDEs
 (No I'm not paid by them, I just really like them !)
